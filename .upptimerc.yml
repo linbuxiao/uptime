@@ -7,3 +7,6 @@ sites:
     url: https://twttrapi.vercel.app/api
     headers: 
       - "x-token: $X_TOKEN"
+      
+status-website:
+  baseUrl: /uptime # "repo" is your repository name
