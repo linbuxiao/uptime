@@ -1,20 +1,20 @@
 [
   {
     "name": "TwitterSearch",
-    "url": "https://twttrapi.vercel.app/search?q=pump.fun",
-    "icon": "https://icons.duckduckgo.com/ip3/twttrapi.vercel.app.ico",
+    "url": "http://8.134.220.225:16100/profile?user_id=169686021&tweet_type=Tweets",
+    "icon": "https://icons.duckduckgo.com/ip3/8.134.220.225.ico",
     "slug": "twitter-search",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
-    "time": 1034,
-    "timeDay": 818,
-    "timeWeek": 1034,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 1114,
+    "timeDay": 1286,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-02-20": 24
     }
