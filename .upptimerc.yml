@@ -4,9 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: TwitterSearch
-    url: https://twttrapi.vercel.app/search?q=pump.fun
+    url: http://8.134.220.225:16100/profile?user_id=169686021&tweet_type=Tweets
     headers: 
-      - "x-token: $X_TOKEN"
+      - "Authorization: $X_TOKEN"
       
 status-website:
   baseUrl: /uptime # "repo" is your repository name
