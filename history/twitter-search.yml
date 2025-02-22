@@ -1,7 +1,7 @@
-url: https://twttrapi.vercel.app/search?q=pump.fun
+url: http://8.134.220.225:16100/profile?user_id=169686021&tweet_type=Tweets
 status: up
 code: 200
-responseTime: 818
-lastUpdated: 2025-02-21T23:06:31.842Z
+responseTime: 1754
+lastUpdated: 2025-02-22T10:04:00.878Z
 startTime: 2025-02-20T15:28:10.324Z
 generator: Upptime <https://github.com/upptime/upptime>
