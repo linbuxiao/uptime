@@ -1,7 +1,7 @@
 url: http://8.134.220.225:16100/profile?user_id=169686021&tweet_type=Tweets
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2025-02-26T16:15:43.231Z
+status: down
+code: 500
+responseTime: 449
+lastUpdated: 2025-02-26T16:29:21.114Z
 startTime: 2025-02-20T15:28:10.324Z
 generator: Upptime <https://github.com/upptime/upptime>
